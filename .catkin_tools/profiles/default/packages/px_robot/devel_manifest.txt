@@ -1,0 +1,7 @@
+px_robot
+/Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/.private/px_robot/cmake.lock /Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/./cmake.lock
+/Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/.private/px_robot/lib/pkgconfig/px_robot.pc /Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/lib/pkgconfig/px_robot.pc
+/Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/.private/px_robot/lib/px_robot/jointPub.py /Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/lib/px_robot/jointPub.py
+/Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/.private/px_robot/lib/px_robot/cmake.lock /Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/lib/px_robot/cmake.lock
+/Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/.private/px_robot/share/px_robot/cmake/px_robotConfig-version.cmake /Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/share/px_robot/cmake/px_robotConfig-version.cmake
+/Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/.private/px_robot/share/px_robot/cmake/px_robotConfig.cmake /Users/amoralesma/Documents/UN/robotica/labs/wireless-phantom-ros-controller/devel/share/px_robot/cmake/px_robotConfig.cmake
