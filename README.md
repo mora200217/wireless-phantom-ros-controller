@@ -31,32 +31,32 @@ Seguidamente, se creo toda la representacion del robot usando la libreria de Pet
 Q1(Home)
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src=src/px_robot/matlab/HMI/Pose_1.jpeg" width="60%"/> 
 </p> 
 
 Q2
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src=src/px_robot/matlab/HMI/Pose_2.jpeg width="60%"/> 
 </p> 
 
 Q3
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src=src/px_robot/matlab/HMI/Pose_3.jpeg width="60%"/> 
 </p> 
 
 Q4
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src=src/px_robot/matlab/HMI/Pose_4.jpeg width="60%"/> 
 </p> 
 
 Q5
 
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src=src/px_robot/matlab/HMI/Pose_5.jpeg width="60%"/> 
 </p> 
 
 Seguidamente se desarrollo en matlab la interfaz de usuario asi como la comunicacion entre Matlab y el PhantomX por medio de Ros en donde se creo una funcion 
@@ -66,7 +66,7 @@ Y se obtuvieron las siguientes poses reales:
 Q1(Home)
 
 <p align="center">
-<img margin="auto" src= src/px_robot/matlab/HMI/Pose_1_real.PNG width="60%"/> 
+<img margin="auto" src= G width="60%"/> 
 </p> 
 
 Q2
