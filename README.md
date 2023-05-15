@@ -117,6 +117,6 @@ Vıdeo demostracion de uso de la interfase de usuario
 
 ## Conclusiones
 
-1. Definir de manera correcta 
-2. El framework ROS con su metodo de conectar nodos ayuda a realizar diversas operaciones de una manera rápida y sencilla.
+1. Definir de manera correcta la tabla de Denavit-Hartenberg hace que tengan correlacion lo que se hace el robot de forma real con lo que se simula.
+2. Matlab ofrece una facilidad para crear una interfaz interactiva en donde puedan ser usadas de manera mas intuitiva cualquier scrpit que se cree previamente.
 3. Los servicios son una herramienta o método bastante util para usar subrutinas de manera mas eficiente.
