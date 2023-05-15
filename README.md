@@ -1,11 +1,6 @@
 # Laboratorio #4 Robótica
 Cuarto laboratorio de la asignatura de Robótica de la Universidad Nacional de Colombia 2023-i.
 
-<p align="center">
-<img width="40%" src="https://github.com/mora200217/labrob-3/blob/master/assets/turtle.gif" /> 
-</p>
-
-
 
 **Integrantes**: 
 * Nelson David Ramírez Marín
@@ -17,11 +12,7 @@ Cuarto laboratorio de la asignatura de Robótica de la Universidad Nacional de C
 Se busca aplicar cinemática directa en el Phantom X Pincher para obtener una configuración del Robot a partir de sus coordenadas articulares.
  
 ## Desarrollo 
-Se escribio un código en C++ que permite operar una tortuga del paquete turtlesim con el teclado, el cual tiene las siguientes funciones:
-- Se mueve hacia adelante y hacia atrás con las teclas W y S
-- Gira en sentido horario y antihorario con las teclas D y A.
-- Retorna a su posición y orientación centrales con la tecla R
-- Da un giro de 180° con la tecla ESPACIO
+
 
 Se emplea el uso de publishers y de servicios para publicar al tópico `/turtle1/cmd_vel` o llamar los servicios `turtlesim/TeleportRelative` y turtlesim/TeleportAbsolute`
 
