@@ -31,7 +31,7 @@ Seguidamente, se creo toda la representacion del robot usando la libreria de Pet
 Q1(Home)
 
 <p align="center">
-<img margin="auto" src=src/px_robot/matlab/HMI/Pose_1.jpeg" width="60%"/> 
+<img margin="auto" src=src/px_robot/matlab/HMI/Pose_1.jpeg width="60%"/> 
 </p> 
 
 Q2
