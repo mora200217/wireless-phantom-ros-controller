@@ -107,11 +107,11 @@ Y se denota como resultado que las poses reales del manipulador corresponden a l
 
 Video del brazo alcanzando cada posicion solicitada
 
-*
+* https://youtube.com/shorts/8cSJca5MZz0?feature=share
 
 Vıdeo demostracion de uso de la interfase de usuario
 
-*
+*https://youtu.be/hc2L_UDudRA
 
 
 
