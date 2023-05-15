@@ -67,12 +67,26 @@ Seguidamente se desarrollo en matlab la interfaz de usuario asi como la comunica
 
 Y finalmente se acabo de implementar la interfaz de usuario en un modulo de matlab llamado appdesigner que estaba comunicada con matlab en donde se cumplieron los requerimientos:
 
+1. Nombres, logos y datos de los integrantes del grupo.
+2. Imagen perspectiva de la posici´on actual del manipulador con la ultima posici´on enviada.
+3. Opcion para seleccionar 1 de las 5 poses y enviarlas al manipulador.
+4. Valores de los valores articulares reales de cada motor.
+5. Imagen perspectiva de la posici´on actual del manipulador con los valores articulares.
 
+Y se denota como resultado que las poses reales del manipulador corresponden a las halladas por el Toolbox de Peter Corke
+
+Video del brazo alcanzando cada posicion solicitada
+
+*
+
+Vıdeo demostracion de uso de la interfase de usuario
+
+*
 
 
 
 ## Conclusiones
 
-1. Saber la sintaxis que se usan en diferentes lenguajes de programacion, como Python o C++, da una vision y recursividad mas amplia a la hora de elegir en donde se puede programar un codigo.
+1. Definir de manera correcta 
 2. El framework ROS con su metodo de conectar nodos ayuda a realizar diversas operaciones de una manera rápida y sencilla.
 3. Los servicios son una herramienta o método bastante util para usar subrutinas de manera mas eficiente.
