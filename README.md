@@ -66,7 +66,7 @@ Y se obtuvieron las siguientes poses reales:
 Q1(Home)
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src= src/px_robot/matlab/HMI/Pose_1_real.PNG width="60%"/> 
 </p> 
 
 Q2
