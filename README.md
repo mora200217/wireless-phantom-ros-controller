@@ -61,7 +61,37 @@ Q5
 
 Seguidamente se desarrollo en matlab la interfaz de usuario asi como la comunicacion entre Matlab y el PhantomX por medio de Ros en donde se creo una funcion 
 
+Y se obtuvieron las siguientes poses reales:
 
+Q1(Home)
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+</p> 
+
+Q2
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+</p> 
+
+Q3
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+</p> 
+
+Q4
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+</p> 
+
+Q5
+
+<p align="center">
+<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+</p> 
 
 
 
