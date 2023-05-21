@@ -119,6 +119,8 @@ Utilizando el SDK y el wrapper de los motores dynamixel con ROS (dynamixel Workb
 
 Se hizo inicialmente la prueba desde un script de python. En matlab se replicó el funcionamiento, creando un publisher y publicando las posiciones al mismo tópico. Con el DH del phantom se eligieron las configuraciones del manipulador desde el vizualizador de matlab, para luego aplicarlas en el robot. 
 
+> Internamente se creó una función llamada `move2coords`. Tomando como argumento el vector articular, modifica directamente la configuracion del robot
+
 
 
 ## Conclusiones
