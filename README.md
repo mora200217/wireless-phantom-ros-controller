@@ -114,6 +114,12 @@ Vıdeo demostracion de uso de la interfase de usuario
 *https://youtu.be/hc2L_UDudRA
 
 
+## Funcionamiento de Comunicación 
+Utilizando el SDK y el wrapper de los motores dynamixel con ROS (dynamixel Workbench) se inicializó un nodo de control en ROS. Este modificaba la posición de los motores en función de los estados publicados al tópico `dynamixel/joint_states`. Este recibe un `msg` con las posiciones articulares del brazo y el tiempo de respuesta. Por formato, se requería que fueran puntos de trayectoria, por lo que se tenía que agregar los timestamps, y más parámetros del header del mensaje para la correcta lectura. 
+
+Se hizo inicialmente la prueba desde un script de python. En matlab se replicó el funcionamiento, creando un publisher y publicando las posiciones al mismo tópico. Con el DH del phantom se eligieron las configuraciones del manipulador desde el vizualizador de matlab, para luego aplicarlas en el robot. 
+
+
 
 ## Conclusiones
 
