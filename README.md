@@ -17,13 +17,13 @@ Se busca aplicar cinemática directa en el Phantom X Pincher para obtener una co
 Se hizo en primer lugar la asignacion de los sistemas de coordenadas para el diagrama del robot, lo que resulto de la siguiente manera
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/sistemas-referencia.png" width="60%"/> 
 </p> 
 
 Y de acuerdo a lo anterior se hizo la tabla Denavit-Hartenberg, que se presenta a continuacion
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/dhparams.png" width="60%"/> 
 </p> 
 
 Seguidamente, se creo toda la representacion del robot usando la libreria de Peter corke, para 5 posiciones asignadas dando las siguientes representaciones
@@ -73,31 +73,31 @@ Y se obtuvieron las siguientes poses reales:
 Q1(Home)
 
 <p align="center">
-<img margin="auto" src= G width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q1.png" width="60%"/> 
 </p> 
 
 Q2
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q2.png" width="60%"/> 
 </p> 
 
 Q3
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q3.png" width="60%"/> 
 </p> 
 
 Q4
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q4.png" width="60%"/> 
 </p> 
 
 Q5
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/labrob-1/blob/master/design/sketch.jpeg" width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q5.png" width="60%"/> 
 </p> 
 
 
