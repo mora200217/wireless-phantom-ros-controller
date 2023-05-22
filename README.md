@@ -73,31 +73,31 @@ Y se obtuvieron las siguientes poses reales:
 Q1(Home)
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q1.png" width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q1.jpeg" width="60%"/> 
 </p> 
 
 Q2
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q2.png" width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q2.jpeg" width="60%"/> 
 </p> 
 
 Q3
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q3.png" width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q3.jpeg" width="60%"/> 
 </p> 
 
 Q4
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q4.png" width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q4.jpeg" width="60%"/> 
 </p> 
 
 Q5
 
 <p align="center">
-<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q5.png" width="60%"/> 
+<img margin="auto" src="https://github.com/mora200217/wireless-phantom-ros-controller/blob/master/imgs/configs/Q5.jpeg" width="60%"/> 
 </p> 
 
 
